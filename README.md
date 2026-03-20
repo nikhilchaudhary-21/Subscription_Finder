@@ -26,8 +26,8 @@ The script auto-detects whether the first row is a header or data.
 
 **Example:**
 ```
-domain,original_url
-mystore.myshopify.com,https://mystore.com
+domain
+mystore.com
 another-brand.com,
 ```
 
